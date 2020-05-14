@@ -1,0 +1,23 @@
+/*
+Theme Name: Test Theme
+Author: Mindaugas Bernatavičius
+Description: Mindaugas' Custom Theme
+*/
+
+body {
+    font-family: Verdana;
+}
+
+.main-container {
+    overflow:auto;
+}
+
+.main-content {
+    width: 63%;
+    float: left;
+}
+
+.sidebar {
+    width: 33%;
+    float: right;
+}
